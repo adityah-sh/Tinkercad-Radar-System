@@ -19,3 +19,6 @@ A functional prototype radar system simulated using **Tinkercad**, designed for 
 3. The script captures the duration of the returning echo and runs the distance formula calculation.
 4. Proximity status is checked against hardcoded limits, executing synchronous component state changes (LED/Buzzer).
 5. Positional coordinates and raw telemetry are parsed and streamed down to the Serial Monitor interface.
+
+## 🔗 Interactive Simulation
+* Run and test the live simulation directly in your browser on [Tinkercad Workspace](https://www.tinkercad.com/things/cYe2cGMM98t-radar).
